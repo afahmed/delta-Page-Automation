@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-14T18:56:08 CDT" name="Default suite" finished-at="2020-03-14T18:56:36 CDT" duration-ms="28376">
+    <groups>
+    </groups>
+    <test started-at="2020-03-14T18:56:08 CDT" name="Default test" finished-at="2020-03-14T18:56:36 CDT" duration-ms="28376">
+      <class name="com.delta.testclasses.FlightStatusTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.delta.testclasses.FlightStatusTest@68e965f5]" started-at="2020-03-14T18:56:08 CDT" name="beforeClass" finished-at="2020-03-14T18:56:21 CDT" duration-ms="12985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.delta.testclasses.FlightStatusTest@68e965f5]" started-at="2020-03-14T18:56:21 CDT" name="beforeMethod" finished-at="2020-03-14T18:56:27 CDT" duration-ms="6300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="flightStatusByDateTest()[pri:0, instance:com.delta.testclasses.FlightStatusTest@68e965f5]" started-at="2020-03-14T18:56:27 CDT" name="flightStatusByDateTest" finished-at="2020-03-14T18:56:34 CDT" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightStatusByDateTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.delta.testclasses.FlightStatusTest@68e965f5]" started-at="2020-03-14T18:56:34 CDT" name="afterMethod" finished-at="2020-03-14T18:56:36 CDT" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.delta.testclasses.FlightStatusTest@68e965f5]" started-at="2020-03-14T18:56:36 CDT" name="afterClass" finished-at="2020-03-14T18:56:36 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.delta.testclasses.FlightStatusTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
